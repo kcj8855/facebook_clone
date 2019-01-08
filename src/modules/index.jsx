@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
-import Profile from './Profile'
+import profile from './profile'
 
 export default combineReducers({
-  Profile,
+  profile,
 })
