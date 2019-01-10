@@ -19,10 +19,10 @@ export default class Avatar extends Component {
 const Persons = () => {
    
     return (
-        <Fragment>
+        <Fragment>            
             <PersonCircle />
             <PersonSquare />
-            <PersonCustom  /> 
+            <PersonCustom /> 
             <PersonCircleSmall />           
             <PersonSquareSmall />
             <PersonCircleVerySmall />
